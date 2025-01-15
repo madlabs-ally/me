@@ -2,8 +2,8 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Dillion Verma",
-  initials: "DV",
+  name: "Madalitso Simbeye",
+  initials: "MS",
   url: "https://dillion.io",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
@@ -72,21 +72,21 @@ export const DATA = {
 
   work: [
     {
-      company: "Atomic Finance",
-      href: "https://atomic.finance",
+      company: "Yeah Innovation",
+      href: "https://getyeah.io",
       badges: [],
       location: "Remote",
       title: "Bitcoin Protocol Engineer",
       logoUrl: "/atomic.png",
-      start: "May 2021",
-      end: "Oct 2022",
+      start: "Jan 2025",
+      end: "Present",
       description:
         "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
     },
     {
-      company: "Shopify",
+      company: "iZyane InovSolutions",
       badges: [],
-      href: "https://shopify.com",
+      href: "https://izyane.com",
       location: "Remote",
       title: "Software Engineer",
       logoUrl: "/shopify.svg",
